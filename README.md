@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jana Raafat</h1>
 <h3 align="center">A Data scientist with a love for data analysis, AI, and machine learning, committed to discovering insights that fuel impactful decisions.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/jana369/jana369/blob/main/WhatsApp%20Image%202024-10-24%20at%2023.44.37_199d47e3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jana369&label=Profile%20views&color=0e75b6&style=flat" alt="jana369" /> </p>
 
